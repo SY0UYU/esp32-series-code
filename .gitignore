@@ -1,0 +1,9 @@
+.pio
+.vscode
+.pioenvs
+.piolibdeps
+*.o
+*.elf
+*.bin
+*.map
+.DS_Store

@@ -1,6 +1,6 @@
 # ESP32 实战系列 — 配套代码
 
-[ESP32 核心基础：芯片架构、FreeRTOS 与 GPIO 编程](https://blog.syouyu.com) 文章的配套代码仓库。
+[ESP32 核心基础：芯片架构、FreeRTOS 与 GPIO 编程](https://blog.syomega.top) 文章的配套代码仓库。
 
 ## 硬件要求
 
